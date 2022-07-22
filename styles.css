@@ -1,0 +1,36 @@
+/* Bootstrap B&B
+   CIS130W01
+   Kari Cook
+   7-22-22  */
+html h1{
+  font-family: 'Updock', cursive;
+  font-size: 70px;
+  text-align: center;
+}
+body {
+  background-color: #fbe7e0;
+}
+.heading h1 {
+  box-shadow: 2px 6px 5px 2px #7e726d;
+  margin-top: 15px;
+  background-color: #db754c;
+}
+
+.form-container {
+  box-shadow: 2px 6px 5px 2px #7e726d;
+  padding: 15px;
+  margin-top: 25px;
+}
+
+.cards {
+  display: flex;
+  grid-gap: 20px;
+}
+.card {
+  box-shadow: 2px 6px 5px 2px #7e726d;
+  margin-top: 15px;
+}
+.slide {
+  margin-top: 20px;
+  box-shadow: 2px 6px 5px 2px #7e726d;
+}
